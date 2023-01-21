@@ -619,7 +619,7 @@ ul.row {
   margin: 1rem 0;
   padding: 0 .5rem;
   font-size: var(--font-size-small);
-  color: var(--color-grey, #A0A0A0);
+  color: var(--color-grey);
   text-align: center;
 }
 
