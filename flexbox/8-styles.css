@@ -364,8 +364,6 @@ ul.row {
   min-height: 50vh;
 }
 
-/*** 4. CARD ***/
-
 /* Section Latest news
     ============================= */
 
@@ -379,6 +377,8 @@ ul.row {
 .section-services .row {
   flex-wrap: wrap;
 }
+
+/*** 4. CARD ***/
 
 /* Card (all styles)
     ============================= */
