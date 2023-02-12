@@ -679,10 +679,6 @@ ul.row {
   content: '';
 }
 
-.card-work:hover .card-title {
-  opacity: 1;
-}
-
 .card-work .card-title a:focus {
   opacity: 1;
   height: 100%;
