@@ -1,0 +1,8 @@
+/* Assigns color using a variable */
+$colorvar: #3D3D3D;
+body {
+  color: $colorvar;
+}
+p {
+  color: $colorvar;
+}
