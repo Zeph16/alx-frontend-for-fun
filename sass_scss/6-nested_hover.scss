@@ -1,8 +1,10 @@
 /* Nested hovers */
+$no-hover: #FF0000;
+$with-hover: #00FF00;
 button {
-    color: #FF0000;
+    color: $no-hover;
 
     &:hover {
-      color: #00FF00;
+      color: $with-hover;
     }
 }
